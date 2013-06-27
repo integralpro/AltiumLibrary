@@ -1,0 +1,24 @@
+WARNING (line  351) - GND Clamp Minimum data is non-monotonic
+WARNING (line  762) - Pulldown Maximum data is non-monotonic
+WARNING (line  846) - Pullup Minimum data is non-monotonic
+WARNING (line  847) - Pullup Typical data is non-monotonic
+WARNING (line 1918) - Pulldown Maximum data is non-monotonic
+WARNING (line 1986) - Pulldown Minimum data is non-monotonic
+WARNING (line 2027) - Pullup Typical data is non-monotonic
+WARNING (line 2094) - Pullup Maximum data is non-monotonic
+WARNING (line 3246) - Pulldown Maximum data is non-monotonic
+WARNING (line 3330) - Pullup Minimum data is non-monotonic
+WARNING (line 3331) - Pullup Typical data is non-monotonic
+WARNING - Model 'gior': TYP AC Rising Endpoints ( 0.30V,  2.92V) not within 
+          0.052V (2%) of ( 0.30V,  3.00V) on VI curves for 2000 Ohms to 3V
+WARNING - Model 'gior': MIN AC Rising Endpoints ( 0.58V,  2.63V) not within 
+          0.041V (2%) of ( 0.58V,  2.69V) on VI curves for 2000 Ohms to 2.7V
+WARNING - Model 'gior': MAX AC Rising Endpoints ( 0.16V,  3.20V) not within 
+          0.061V (2%) of ( 0.16V,  3.30V) on VI curves for 2000 Ohms to 3.3V
+WARNING - Model 'gpu3b01': MIN AC Rising Endpoints ( 0.00V,  0.93V) not within 
+          0.019V (2%) of ( 0.00V,  0.95V) on VI curves for 73 Ohms to 0V
+
+Errors  : 0
+Warnings: 15
+
+File Passed
