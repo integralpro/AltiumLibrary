@@ -1,0 +1,70 @@
+(ExpressProject "TPS2066C-2_TRANS"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "tps2066c-2_trans.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "tps2066c-2_trans.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\tps2066c-2_trans-pspicefiles\schematic1\trans.sim"
+        (DisplayName "SCHEMATIC1-trans")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\tps2066c-2_trans-pspicefiles\schematic1\trans.sim"))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\tps2066c-2_trans.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName ".\tps2066c-2_trans.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (TPS2066C-2_TRANS
+      (FullPartName "TPS2066C-2_TRANS.Normal")
+      (LibraryName ".\TPS2066C-2_TRANS.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (TPS62402_TRANS_ES
+      (FullPartName "TPS62402_TRANS_ES.Normal")
+      (LibraryName ".\TPS62402_TRANS.OLB")
+      (DeviceIndex "0"))
+    (TPS62402_TRANS
+      (FullPartName "TPS62402_TRANS.Normal")
+      (LibraryName ".\TPS62402_TRANS.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "x0192350")
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 586 -4 -23 0 230 0 424"))
+      (Tab 0))))
