@@ -368,7 +368,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=nxp.SchLib
+DocumentPath=Vishay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -384,7 +384,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document23]
-DocumentPath=Molex.PcbLib
+DocumentPath=nxp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -400,7 +400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document24]
-DocumentPath=Molex.SchLib
+DocumentPath=Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -416,7 +416,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document25]
-DocumentPath=Murata.SchLib
+DocumentPath=Molex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -432,7 +432,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document26]
-DocumentPath=Various.PcbLib
+DocumentPath=Murata.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -448,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document27]
-DocumentPath=semtech.SchLib
+DocumentPath=Various.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -464,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document28]
-DocumentPath=Semtech.PcbLib
+DocumentPath=semtech.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document29]
-DocumentPath=OnSemi.SchLib
+DocumentPath=Semtech.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -496,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document30]
-DocumentPath=Realtek.SchLib
+DocumentPath=OnSemi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -512,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document31]
-DocumentPath=Toko.SchLib
+DocumentPath=Realtek.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -528,7 +528,87 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document32]
+DocumentPath=Toko.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document33]
 DocumentPath=Toko.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document34]
+DocumentPath=te.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document35]
+DocumentPath=Fuses.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document36]
+DocumentPath=Yuden.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document37]
+DocumentPath=Yuden.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
